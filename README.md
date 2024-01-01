@@ -3,6 +3,12 @@
 This is a Natural Language Processing project for detecting gender of the users from the tweets.
 'Information.csv' is the dataset used in the project which contains tweets and relevant data. 'Information_final.csv' is the final preprocessed data after Exploratory Data Analysis(EDA).
 
+Packages used :
+pandas
+numpy
+matplotlib.pyplot
+nltk
+
 Algorithms used :
 1. Multinomial Naive-Bayes
 2. Decision Tree Classifier
